@@ -7,7 +7,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # Configuration
-TOKEN = os.getenv("TOKEN")
+TOKEN = os.getenv("8153264069:AAHxdJnYcnx3gHuH9JXn4zcdV52h37EeFhM")
 CACHE_DURATION = 1800  # 30 minutes cache
 TIMEZONE_OFFSET = 3  # GMT+3 for Saudi Arabia
 
